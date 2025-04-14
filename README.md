@@ -1,6 +1,8 @@
 # 🧠 AI-Powered Human Attribute Detection
 Detect human attributes using artificial intelligence, combining computer vision, Streamlit, and Google Gemini's generative language model.
 
+![Image](https://github.com/user-attachments/assets/5925f918-c903-44fa-85d5-e308a8abcda2)
+
 📷 Project Description
 This project leverages cutting-edge AI techniques to identify and analyze human attributes from images — such as estimated age, gender, and emotion. It features a lightweight Streamlit front-end and integrates the powerful Google Gemini GenAI model to generate contextual insights and natural language explanations.
 
